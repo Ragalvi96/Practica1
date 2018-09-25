@@ -15,7 +15,7 @@
 
 **GitHub**
 
-![Logo de GitHub](http://github.itu.dk/)
+![Logo de GitHub](https://i1.wp.com/geeksroom.com/wp-content/uploads/2014/05/github-gde.png?w=580&ssl=1)
 
 *GitHub*: sitio web dónde podemos subir una copia de nuestro repositorio Git.
 
