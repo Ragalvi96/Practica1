@@ -53,7 +53,7 @@
 
 **GitHub**
 
-![Logo de GitHub](http://github.itu.dk/)
+![Logo de GitHub](https://i1.wp.com/geeksroom.com/wp-content/uploads/2014/05/github-gde.png?w=580&ssl=1)
 
 *GitHub*: sitio web dónde podemos subir una copia de nuestro repositorio Git.
 
@@ -100,7 +100,7 @@ Listado de la configuración:
 
 ### **Los tres estados de Git**
 
-![Local Operations] (https://image.slidesharecdn.com/git-intro-091215075529-phpapp01/95/git-and-github-13-728.jpg?cb=1260938801)
+![Local Operations](https://image.slidesharecdn.com/git-intro-091215075529-phpapp01/95/git-and-github-13-728.jpg?cb=1260938801)
 
 ### **Comandos básicos I**
 
@@ -112,6 +112,7 @@ Agregar cambios al area de *staging*:
 
 Validar cambios en el repositorio:
 `git commit -m *"Mensaje"*`
+
 Hacer los dos pasos anteriores en uno:
 `git commit -am "Mensaje"`
 
