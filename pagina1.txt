@@ -1,4 +1,5 @@
 **Contenidos**
+
 1.1. Git.
 
 	1.1.1. Introducción.
@@ -20,10 +21,10 @@
 
 **Evaluación**
 
-	* Las entregas en moodle se realizarán por medio del representante o líder de cada grupo.
-	* Se debe entregar en moodle la dirección del repositorio de Github.
-	* Se evaluará la realización de un pequeño tutorial de Github con los contenidos aprendidos durante las dos primeras sesiones prácticas. El lenguaje de formateado será Markdown.
-	* El repositorio de Github contendrá tanto el tutorial como el historial de cambios realizados por los integrantes del grupo.
+* Las entregas en moodle se realizarán por medio del representante o líder de cada grupo.
+* Se debe entregar en moodle la dirección del repositorio de Github.
+* Se evaluará la realización de un pequeño tutorial de Github con los contenidos aprendidos durante las dos primeras sesiones prácticas. El lenguaje de formateado será Markdown.
+* El repositorio de Github contendrá tanto el tutorial como el historial de cambios realizados por los integrantes del grupo.
 
 # **0. Git**
 
@@ -31,7 +32,7 @@
 
 ### **Motivación**
 
-	* Código efímero.
-	* Necesidad de mantener todas las versiones del código fuente.
-	* Problemas en organizaciones para mantener el código actualizado.
-	* Coherencia de versiones.
+* Código efímero.
+* Necesidad de mantener todas las versiones del código fuente.
+* Problemas en organizaciones para mantener el código actualizado.
+* Coherencia de versiones.
