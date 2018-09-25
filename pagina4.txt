@@ -29,16 +29,16 @@ Ver diferencia entre ficheros en el *staging* y el repositorio:
 `git diff --staged`
 
 Eliminar archivos:
-~
+~~~
 git rm archivo
 git commit -m "Mensaje"
-~
+~~~
 
 Mover o renmbrar archivos:
-~
+~~~
 git mv antiguo nuevo
 git commit -m "Mensaje"
-~
+~~~
 
 
 ### **Comandos básicos IV**
