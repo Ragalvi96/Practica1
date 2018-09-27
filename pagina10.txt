@@ -14,14 +14,26 @@
 	Encabezados (hasta 6 niveles)	`#Encabezado primer nivel`
 									`##Encabezado segundo nivel`
 									`##Encabezado nivel tres`
+<<<<<<< HEAD
 	Citas en bloque					`>Las citas en bloque deben `									`comenzar y terminar con una `									`línea en blanco.`
+=======
+	Citas en bloque					`>Las citas en bloque deben comenzar y terminar con una línea en blanco.`
+>>>>>>> desarrollo
 	Código en línea 				``Esto es código en línea``
 	Bloques de código  				`~~~`
 									`Ejemplo de bloque`
 									`~~~`
+<<<<<<< HEAD
 	Imágenes						`![Texto alternativo](url/	`									`imagen.png))`
 	Vínculos						`[Texto del vínculo](url)`
 	Imágenes con vínculos     		`[![Texto alternativo]`
 									`(imagen)](url)`
 	Línea horizontal				`---(Salto de línea antes y `									`después)`
 	Salto de línea    				`&nbsp (Dos saltos de línea `									`antes)`
+=======
+	Imágenes						`![Texto alternativo](url/imagen.png))`
+	Vínculos						`[Texto del vínculo](url)`
+	Imágenes con vínculos     		`[![Texto alternativo](imagen)](url)`
+	Línea horizontal				`---(Salto de línea antes y después)`
+	Salto de línea    				`&nbsp (Dos saltos de línea antes)`
+>>>>>>> desarrollo
