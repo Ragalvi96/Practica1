@@ -1,0 +1,41 @@
+### Operaciones con *branches* remotos
+
+* Creación:
+
+	1. Crear branch local.
+
+	2. Haces cambios en dicho branch.
+
+	3. Hacer commit.
+
+	4. Copiar el branch al repositorio remoto:
+
+`git push -u origin branch_remoto`
+
+
+* Copia:
+
+`git checkout -b local remoto`
+
+* Eliminación:
+
+`git push origin --delete branch_remoto`
+
+
+
+## 1. Markdown
+
+
+### 1.1. Introducción
+
+## Lenguaje Markdown
+
+* Markdown es un lenguaje de etiquetado ligero que simplifica la elaboración de documentos.
+
+* Se ideó pensando en una herramienta para escribir páginas web en un texto simple fácil de leer.
+
+* Actualmente, se utiliza para documentar software ya que el texto plano puede entrar dentro de cualquier sistema de control de versiones e incluye muchas extensiones para colorear código fuente en distintos lenguajes.
+
+
+
+
