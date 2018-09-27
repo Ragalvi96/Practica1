@@ -1,9 +1,9 @@
 
-##**1.2. Código**
+## **1.2. Código**
 
-###**Sintaxis I**
+### **Sintaxis I**
 
-	Formato							Sintaxis
+	**Formato**						**Sintaxis**
 
 	Negrita							`**Texto en negrita**`
 	Cursiva							`*Texto en cursiva*`
@@ -14,10 +14,8 @@
 	Encabezados (hasta 6 niveles)				`#Encabezado primer nivel`
 								`##Encabezado segundo nivel`
 								`##Encabezado nivel tres`
-	Citas en bloque						`>Las citas en bloque deben 
-								`comenzar y terminar con una `													`línea en blanco.`
-	Citas en bloque						`>Las citas en bloque deben comenzar
-								`y terminar con una línea en blanco.`
+	Citas en bloque						`>Las citas en bloque deben`
+								`comenzar y terminar con una`
 	Código en línea 					`Esto es código en línea
 	Bloques de código  					`~~~`
 								`Ejemplo de bloque`
