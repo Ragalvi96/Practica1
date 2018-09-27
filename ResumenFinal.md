@@ -184,6 +184,7 @@ Retirar archivos del *staging*:
 `git reset HEAD nombre_fichero`
 
 Complementar último commit:
+
 `git commit --amend -m "Mensaje"`
 
 Recuperar version de un fichero de commit antiguo:
@@ -343,11 +344,12 @@ git stash pop nombre_stash
 Ver repositorios remotos:
 
 `git remote -v`
+
 Eliminar repositorio remoto:
 
 `git remote rm origin`
 
-Añadir cambiosdel repositorio local al remoto:
+Añadir cambios del repositorio local al remoto:
 
 `git push -u origin master`
 
@@ -416,12 +418,12 @@ Clonar un repositorio remoto:
 
 
 
-## 1. Markdown
+# 1. Markdown
 
 
-### 1.1. Introducción
+## 1.1. Introducción
 
-## Lenguaje Markdown
+### Lenguaje Markdown
 
 * Markdown es un lenguaje de etiquetado ligero que simplifica la elaboración de documentos.
 
@@ -496,7 +498,7 @@ Eclipse es un entorno integrado de desarrollo(IDE).
 
 * Utilizaremos Eclipse para C++. Eclipse para C++
 
-*Para Eclipse existen *plugins* integrados con git. https://www.eclipse.org/egit/
+* Para Eclipse existen *plugins* integrados con git. https://www.eclipse.org/egit/
 
 
 # 3.Recursos
@@ -513,10 +515,10 @@ Recursos Mardown:
 
 * Markdown cheatsheet
 
-*Guía en castellano extendida.
+* Guía en castellano extendida.
 
 Recursos Eclipse:
 
 * En las aulas se puede cargar con la orden eclipse3.3
 
-*Eclipse para C++
+* Eclipse para C++
