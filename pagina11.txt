@@ -1,0 +1,46 @@
+## 2. Eclipse
+
+### 2.1. Introducción
+
+### Eclipse
+
+Eclipse es un entorno integrado de desarrollo(IDE).
+
+* Se diseñó inicialmente como IDE para Java, sin embargo ahora soporta otros lenguajes como C++.
+
+* Ayuda a escribir código más rápido y libre de algunos errores sintácticos, y ayuda a mantener un estilo de programación homogéneo.
+
+* Facilita la depuración de código.
+
+* Hay una gran documentación.
+
+### 2.2. Instalación.
+
+### Instalación
+
+* Utilizaremos Eclipse para C++. Eclipse para C++
+
+*Para Eclipse existen *plugins* integrados con git. https://www.eclipse.org/egit/
+
+
+## 3.Recursos
+
+### Recursos
+
+Recursos Git:
+
+* Guía sencilla de Git.
+
+* Pro Git Book.
+
+Recursos Mardown:
+
+* Markdown cheatsheet
+
+*Guía en castellano extendida.
+
+Recursos Eclipse:
+
+* En las aulas se puede cargar con la orden eclipse3.3
+
+*Eclipse para C++
