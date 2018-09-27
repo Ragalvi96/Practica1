@@ -25,11 +25,11 @@ Eliminar un cambio temporal:
 `git stash drop nombre_stash`
 
 Aplicar cambio del *stash*:
-
+~~~
 `git stash apply nombre_stash`
 
 `git stash pop nombre_stash`
-
+~~~
 
 ## 0.5. GitHub
 
@@ -85,11 +85,10 @@ Clonar un repositorio remoto:
 * REMOTO -> LOCAL
 	
 	* Sincronización y unión:
-	~~~
-	
-		git fetch origin
-		git merge origin/master
-	~~~
+	   ~~~
+	  git fetch origin
+	  git merge origin/master
+	   ~~~
 
 	* En un solo paso:
 	
