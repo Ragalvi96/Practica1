@@ -1,17 +1,23 @@
 ### **Configuración básica**
+
 Nombre del administrador:
+
 `git config --global user.name "Antonio M. Durán Rosal`
 
 Correo electrónico:
+
 `git config --global user.email aduran@uco.es`
 
 Editor de texto:
+
 `git config --global core.editor "gedit"`
 
 Color de la interfaz:
+
 `git config --global color.ui true`
 
 Listado de la configuración:
+
 `git config --list`
 
 ## **0.3 Uso básico**
@@ -23,11 +29,14 @@ Listado de la configuración:
 ### **Comandos básicos I**
 
 Iniciar repositorio en un directorio:
+
 `git init`
 
 Agregar cambios al area de *staging*:
+
 `git add`
 
 Validar cambios en el repositorio:
+
 `git commit -m *"Mensaje"*`
 
