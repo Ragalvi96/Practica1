@@ -50,7 +50,9 @@ Comparar un commit con el actual:
 `git diff <id> nombre_archivo`
 
 Comparar dos commits:
-`git diff id..id nombre_archivo`## **0.4 Ramas**
+`git diff id..id nombre_archivo`
+
+## **0.4 Ramas**
 
 **Ramas o *Branches* **
 
@@ -77,7 +79,7 @@ Comparar ramas:
 `git diff nombre_rama..nombre_rama`
 
 
-## **Comandos Ramas II**
+### **Comandos Ramas II**
 
 Ver ramas idénticas a la actual:
 `git branch --merged`
