@@ -35,7 +35,7 @@ Aplicar cambio del *stash*:
 
 ### GitHub no es Git
 
-! [imagen](http://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s1600/Github2.png)
+![imagen](http://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s1600/Github2.png)
 
 ### Comandos GitHub
 
@@ -86,10 +86,10 @@ Clonar un repositorio remoto:
 	
 	* Sincronización y unión:
 	
-	`git fetch origin`
+	 `git fetch origin`
 	
-	`git merge origin/master`
+	 `git merge origin/master`
 
 	* En un solo paso:
 	
-	`git pull`
+	 `git pull`
