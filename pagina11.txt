@@ -1,6 +1,6 @@
-## 2. Eclipse
+# 2. Eclipse
 
-### 2.1. Introducción
+## 2.1. Introducción
 
 ### Eclipse
 
@@ -14,7 +14,7 @@ Eclipse es un entorno integrado de desarrollo(IDE).
 
 * Hay una gran documentación.
 
-### 2.2. Instalación.
+## 2.2. Instalación.
 
 ### Instalación
 
@@ -23,7 +23,7 @@ Eclipse es un entorno integrado de desarrollo(IDE).
 *Para Eclipse existen *plugins* integrados con git. https://www.eclipse.org/egit/
 
 
-## 3.Recursos
+# 3.Recursos
 
 ### Recursos
 
