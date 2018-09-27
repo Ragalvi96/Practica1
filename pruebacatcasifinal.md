@@ -220,7 +220,7 @@ Comparar dos commits:
 `git diff id..id nombre_archivo`
 ## **0.4 Ramas**
 
-**Ramas o *Branches* **
+**Ramas o *Branches***
 
 Es la forma para separar la línea actual de desarrollo con respecto a la principal. Normalmente representan versiones del software que posteriormente son integradas a la línea principal.
 
@@ -288,10 +288,10 @@ Eliminar un cambio temporal:
 
 Aplicar cambio del *stash*:
 
-`git stash apply nombre_stash`
-
-`git stash pop nombre_stash`
-
+~~~
+git stash apply nombre_stash
+git stash pop nombre_stash
+~~~
 
 ## 0.5. GitHub
 
@@ -306,11 +306,12 @@ Aplicar cambio del *stash*:
 Ver repositorios remotos:
 
 `git remote -v`
+
 Eliminar repositorio remoto:
 
 `git remote rm origin`
 
-Añadir cambiosdel repositorio local al remoto:
+Añadir cambios del repositorio local al remoto:
 
 `git push -u origin master`
 
@@ -379,12 +380,12 @@ Clonar un repositorio remoto:
 
 
 
-## 1. Markdown
+# 1. Markdown
 
 
-### 1.1. Introducción
+## 1.1. Introducción
 
-## Lenguaje Markdown
+### Lenguaje Markdown
 
 * Markdown es un lenguaje de etiquetado ligero que simplifica la elaboración de documentos.
 
